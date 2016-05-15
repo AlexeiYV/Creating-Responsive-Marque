@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto|PT+Serif&subset=latin,cyrillic);
+
+body {
+  margin: 0;
+  padding: 10px;
+}
+
+.marquee {
+  font-size: 16px;
+  height: 425px;
+  max-width: 1200px;
+  margin: 0 auto 20px auto;
+  border: 1px solid #ccc;
+}
+
+.marquee-data {
+  display: none;
+}
